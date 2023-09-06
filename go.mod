@@ -8,7 +8,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.2.1
 	github.com/elastic/elastic-package v0.85.0
 	github.com/elastic/go-licenser v0.4.1
-	github.com/hashicorp/go-plugin v1.5.0
+	github.com/hashicorp/go-plugin v1.5.1
 	github.com/mattn/go-sqlite3 v1.14.17
 	github.com/mikefarah/yq/v4 v4.35.1
 	github.com/spf13/pflag v1.0.5
