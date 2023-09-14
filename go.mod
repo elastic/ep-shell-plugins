@@ -12,8 +12,8 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.17
 	github.com/mikefarah/yq/v4 v4.35.1
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/tools v0.12.0
-	honnef.co/go/tools v0.4.5
+	golang.org/x/tools v0.12.1-0.20230825192346-2191a27a6dc5
+	honnef.co/go/tools v0.4.6
 )
 
 require (
