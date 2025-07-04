@@ -7,6 +7,4 @@ updates:
       interval: "daily"
     labels:
       - automation
-    reviewers:
-      - "elastic/security-external-integrations"
     open-pull-requests-limit: 10
